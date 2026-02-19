@@ -1,2 +1,4 @@
 gradio
 pymupdf
+gradio
+PyMuPDF
